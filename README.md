@@ -1,0 +1,2 @@
+# remap
+gedit ~/.Xmodmap
